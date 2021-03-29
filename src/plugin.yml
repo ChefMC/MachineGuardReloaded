@@ -1,7 +1,7 @@
 name: MachineGuardReloaded
 version: 2.5
 main: ru.onlymc.machineguard.MachineGuard
-softdepend: [WorldGuard]
+depend: [WorldGuard]
 authors: [Chef, CaptainChef, hqSparx, smbarbour]
 description: WorldGuard addon for protect custom blocks reloaded by CaptainChef
 website: www.Mine.by
